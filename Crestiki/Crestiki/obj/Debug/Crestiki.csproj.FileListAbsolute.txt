@@ -1,0 +1,70 @@
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\bin\Debug\Crestiki.exe.config
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\bin\Debug\Crestiki.exe
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\bin\Debug\Crestiki.pdb
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\bin\Debug\MaterialDesignColors.dll
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\bin\Debug\MaterialDesignColors.pdb
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.AssemblyReference.cache
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\GUI.g.cs
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\MainWindow.g.cs
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\App.g.cs
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\Crestiki_MarkupCompile.cache
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\Crestiki_MarkupCompile.lref
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\App.baml
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\GUI.baml
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\MainWindow.baml
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\Crestiki.g.resources
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\Crestiki.Properties.Resources.resources
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.GenerateResource.cache
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.CoreCompileInputs.cache
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.CopyComplete
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\Crestiki.exe
+C:\Users\AZ-1501\source\repos\Crestiki\Crestiki\obj\Debug\Crestiki.pdb
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\bin\Debug\Crestiki.exe.config
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\bin\Debug\Crestiki.exe
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\bin\Debug\Crestiki.pdb
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\bin\Debug\MaterialDesignColors.dll
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\bin\Debug\MaterialDesignColors.pdb
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.AssemblyReference.cache
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\App.g.cs
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\Crestiki_MarkupCompile.cache
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\Crestiki_MarkupCompile.lref
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\App.baml
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\Crestiki.g.resources
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\Crestiki.Properties.Resources.resources
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.GenerateResource.cache
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.CoreCompileInputs.cache
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.CopyComplete
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\Crestiki.exe
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\Crestiki.pdb
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\xoxo.g.cs
+C:\Users\lucyo\OneDrive\Рабочий стол\Crestiki\Crestiki\obj\Debug\xoxo.baml
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\bin\Debug\Crestiki.exe.config
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\bin\Debug\Crestiki.exe
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\bin\Debug\Crestiki.pdb
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\bin\Debug\MaterialDesignColors.dll
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.AssemblyReference.cache
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.SuggestedBindingRedirects.cache
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\xoxo.g.cs
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\App.g.cs
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\Crestiki_MarkupCompile.cache
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\Crestiki_MarkupCompile.lref
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\App.baml
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\xoxo.baml
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\Crestiki.g.resources
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\Crestiki.Properties.Resources.resources
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.GenerateResource.cache
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\Crestiki.csproj.CopyComplete
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\Crestiki.exe
+C:\Users\MASTER\Downloads\Crestiki (1)\Crestiki\Crestiki\obj\Debug\Crestiki.pdb
